@@ -1,0 +1,7 @@
+escreva o codigo do começo, identando direitinho e usando comentarios para cada parte do codigo exemplo: 
+---------------------
+conexão com banco de dados
+-----------------------
+codigo
+
+não quero que voce tente melhorar o codigo de nenhuma maneira, na verdade nhnum tipo de alteração somente identação e comentarios 
