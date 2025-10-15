@@ -5,4 +5,5 @@ conexão com banco de dados(manda dados de horario)
 codigo
 
 
-não quero que voce tente melhorar o codigo de nenhuma maneira, na verdade nhnum tipo de alteração somente identação e comentarios 
+não quero que voce tente melhorar o codigo de nenhuma maneira, na verdade nhnum tipo de alteração somente identação e comentarios e otimize tirando todas as bibliotecas que não estão sendo usada
+
